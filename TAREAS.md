@@ -1,0 +1,10 @@
+- [ ] Actualizar título profesional en LinkedIn.
+- [ ] Rediseñar el resumen en 3 bloques claros.
+- [ ] Incluir palabras clave: gestión cultural, turismo inclusivo, patrimonio, ecoturismo, realidad virtual, accesibilidad.
+- [ ] Añadir logros cuantificables (ej.: +30% visitas, 150 participantes).
+- [ ] Formatear con viñetas para mayor legibilidad.
+- [ ] Insertar llamado a la acción para conectar.
+- [ ] Listar certificaciones y diplomados en sección de formación.
+- [ ] Subir portafolio de proyectos (PDF, videos) a LinkedIn.
+- [ ] Revisar y actualizar CV (PDF) con estructura recomendada.
+- [ ] Programar revisión semanal del perfil y CV.
